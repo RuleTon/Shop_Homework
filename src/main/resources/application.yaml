@@ -1,7 +1,7 @@
 erver:
   port: 8189
   servlet:
-    context-path: /security
+    context-path: /shop
 spring:
   jpa:
     show-sql: true
